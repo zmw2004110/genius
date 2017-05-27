@@ -1,2 +1,2 @@
 # genius
-my first repository
+my first repository of branch
